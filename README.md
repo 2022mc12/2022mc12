@@ -22,6 +22,20 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/millie-chen-4ba
 - **What I Did**: Used data science to understand what song features makes songs popular and determine the genre of a song
 - **Programming Language**: Python (Libraries: Scikit-learn, Pandas, NumPy, matplotlib, SciPy)
 
+
+**Other Projects**
+
+✨[Predicting AirBnb Prices](https://github.com/reeseburns/Predicting-Airbnb-Prices/tree/main)
+- **What We Did**: Predicting Airbnb prices across major European cities
+- **What I Did**: Data Preprocessing, Exploratory Data Analysis, overall analysis and conclusion
+- **Programming Language**: Python (Libraries: Scikit-learn, Pandas, NumPy, seaborn, matplotlib, Tensorflow)
+- NOTE: This is a school group project and the Github repo was created by one of my groupmates
+
+✨ [Major/Minor Requirement Tracker](https://github.com/2022mc12/wedDevelopmentFinalProject/tree/main) 
+- **What I Did**: Created a major/minor Requirement Tracker for the Computer Science major and minor
+- **Programming Language**: Javascript(Node.js), handlebars, CSS, Mongoose, Express, Passport
+- Test cases(unit tests and automated tests) written using Mocha, Supertest, and Selenium Webdriver 
+
 <!--
 **2022mc12/2022mc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
