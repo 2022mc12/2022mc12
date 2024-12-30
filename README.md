@@ -31,9 +31,13 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/millie-chen-4ba
 - **Programming Language**: Python (Libraries: Scikit-learn, Pandas, NumPy, seaborn, matplotlib, Tensorflow)
 - NOTE: This is a school group project and the Github repo was created by one of my groupmates
 
+✨ [Predicting Income Using Logistic Regression](https://github.com/2022mc12/BTTFinalProject)
+- **What I Did**: Developed a logistic regression model to predict income group based on various features
+- **Programming Language**: Python (Libraries: Pandas, Numpy, Scikit-learn, Matplotlib, SciPy, Seaborn)
+
 ✨ [Major/Minor Requirement Tracker](https://github.com/2022mc12/wedDevelopmentFinalProject/tree/main) 
 - **What I Did**: Created a major/minor Requirement Tracker for the Computer Science major and minor
-- **Programming Language**: Javascript(Node.js), handlebars, CSS, Mongoose, Express, Passport
+- **Programming Languages and Libraries**: Javascript(Node.js), handlebars, CSS, Mongoose, Express, Passport
 - Test cases(unit tests and automated tests) written using Mocha, Supertest, and Selenium Webdriver 
 
 <!--
