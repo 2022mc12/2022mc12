@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Millie!
 
-I am currently a junior studying Computer Science and Data Science at NYU and I am interested in data science and machine learning. I am particularly interested in using data to understand what happened in the past and to make predictions about the future. My projects mainly focus on using data science to solve business problems and some machine learning models. 
+I am currently a Masters student studying Computer Science at NYU and I am interested in data science and machine learning. I am particularly interested in using data to understand what happened in the past and to make predictions about the future. My projects mainly focus on using data science to solve business problems and some machine learning models. 
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/millie-chen-4ba391246) or through email at 2022mchen@gmail.com.
 
