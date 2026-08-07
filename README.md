@@ -4,7 +4,16 @@ I am currently a Masters student studying Computer Science at NYU and I am inter
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/millie-chen-4ba391246) or through email at 2022mchen@gmail.com.
 
+🎯 Featured Project: [RAG-Powered Commuter Assistant Chatbot](https://github.com/2022mc12/ai201-project1-RAG/tree/main)
+- **What I Did**: Developed an interactive RAG (Retrieval-Augmented Generation) chatbot prototype that consolidates online forums and university resources to help NYU commuter students find information and advice
+- **Programming Language**: Python
+- **Other Tools**: ChromaDB, Groq API, and Gradio
 
+🎯 Featured Project: [Cross-Cloud Credit Card Fraud Detection Pipeline](https://github.com/2022mc12/CCFinalProject/tree/main/Part2)
+- **What I Did**: Built a cross-cloud, serverless, event-driven transaction processing pipeline using Azure IoT Hub,
+Azure Functions, AWS Lambda, and Amazon SageMaker inference endpoints to generate real-time fraud predictions from simulated transaction data
+- **Programming Language**: Python 
+- **Other Tools**: AWS, Azure
 
 🎯 Featured Project: [Measuring Marketing Effectiveness for Colle McVoy](https://github.com/BTT-StudioAI-ColleMcVoy/MeasuringMarketingEffectiveness)
 - **What We Did**: Developed data-driven recommendations for marketing budget allocation to support business goals
@@ -18,12 +27,14 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/millie-chen-4ba
 - **Programming Language**: Python (Libraries: Pytorch)
 - NOTE: This is on my school GitHub account as this is a school project
 
-🎯 Featured Project: [Answering Business Questions about Spotify Data](https://github.com/2022mc12/dataScienceCapstone)
-- **What I Did**: Used data science to understand what song features makes songs popular and determine the genre of a song
-- **Programming Language**: Python (Libraries: Scikit-learn, Pandas, NumPy, matplotlib, SciPy)
 
 
 **Other Projects**
+
+✨[Answering Business Questions about Spotify Data](https://github.com/2022mc12/dataScienceCapstone)
+- **What I Did**: Used data science to understand what song features makes songs popular and determine the genre of a song
+- **Programming Language**: Python (Libraries: Scikit-learn, Pandas, NumPy, matplotlib, SciPy)
+
 
 ✨[Predicting AirBnb Prices](https://github.com/reeseburns/Predicting-Airbnb-Prices/tree/main)
 - **What We Did**: Predicting Airbnb prices across major European cities
